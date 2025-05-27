@@ -87,6 +87,3 @@ Use slicers for dynamic analysis by country, customer, date range, and more.
 
 ---
 
-## 📬 Feedback or Questions?
-
-Feel free to reach out if you’d like help customizing this dashboard for your specific dataset or business use case.
