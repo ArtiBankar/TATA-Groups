@@ -63,14 +63,12 @@ Use slicers for dynamic analysis by country, customer, date range, and more.
 ---
 
 ## 📊 Sample Visuals
-
-> *(Optional – add screenshots or GIFs here if publishing online)*  
+  
 > Example visuals:
-> - Revenue by Region
-> - Monthly Sales Trend
-> - Top 10 Customers
-> - Product Return Rate
-
+ <img src="Sum of Revenue by Month.png" alt="Dashboard" width="700"/>
+ <img src="Quantity and Revenue by Country.png" alt="Dashboard" width="700"/>
+  <img src="Revenue by CustomerID.png" alt="Dashboard" width="700"/>
+   <img src="Country and Quantity.png" alt="Dashboard" width="700"/>
 ---
 
 ## 🛠️ Built With
